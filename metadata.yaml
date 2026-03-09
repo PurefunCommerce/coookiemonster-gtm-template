@@ -1,5 +1,5 @@
 homepage: "https://coookiemonster.com"
 documentation: "https://coookiemonster.com#gtm"
 versions:
-  - sha: d68bb42bba323b2c6b12a624a399c080bb122a65
+  - sha: cd8879f6dc9635e97d1a7fd46117d7ebf1683ee8
     changeNotes: "Initial release. Cookie consent with Google Consent Mode v2, 10 EU languages, custom theming."
